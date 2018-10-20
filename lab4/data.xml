@@ -1,0 +1,46 @@
+<?xml version = "1.0"?>
+<class>
+    <student groupno = "6723001">
+        <firstname>Andrey</firstname>
+        <lastname>Dydyshko</lastname>
+        <learningForm>b</learningForm>
+        <exams>
+            <math>75</math>
+            <physics>80</physics>
+            <russian>80</russian>
+        </exams>
+    </student>
+
+    <student groupno = "6723022">
+        <firstname>Konstantin</firstname>
+        <lastname>Zhylinskiy</lastname>
+        <learningForm>b</learningForm>
+        <exams>
+            <math>75</math>
+            <physics>70</physics>
+            <russian>80</russian>
+        </exams>
+    </student>
+
+    <student groupno = "6723014">
+        <firstname>Ilia</firstname>
+        <lastname>Staver</lastname>
+        <learningForm>p</learningForm>
+        <exams>
+            <math>70</math>
+            <physics>90</physics>
+            <russian>75</russian>
+        </exams>
+    </student>
+
+    <student groupno = "6723009">
+        <firstname>Matvei</firstname>
+        <lastname>Bardashevich</lastname>
+        <learningForm>b</learningForm>
+        <exams>
+            <math>90</math>
+            <physics>75</physics>
+            <russian>85</russian>
+        </exams>
+    </student>
+</class>
